@@ -1,6 +1,27 @@
 {
   "version": 1,
   "beans": [],
-  "profiles": [],
+  "profiles": [
+    {
+      "id": "p3100550",
+      "name": "JLightEtiopia2",
+      "description": "Etiopia Natural:\\vPeach, light tea body, sweet, floral aftertaste\\v\\vGeisha Village tested 88+ coffees\\v\\vDensity: 695g/l\\vBean Moisture: 11.9%\\v\\v---- Targets:\\vLight Filter\\vWeight Loss: 12%\\vRoast Meter Color: 120rl",
+      "designer": "me",
+      "fcTemp": 206,
+      "ccTemp": 165.9,
+      "dropTemp": 211,
+      "dropTime": 459,
+      "_dropTimeV": 2,
+      "recommendedLevel": 1,
+      "dir": "profiles/JLightEtiopia2",
+      "files": [
+        "JLightEthiopia2.kpro"
+      ],
+      "sourceFileName": "JLightEthiopia2.kpro",
+      "uploadedAt": "2026-05-16T06:01:50.055Z",
+      "notes": "",
+      "tag": ""
+    }
+  ],
   "logs": []
 }
